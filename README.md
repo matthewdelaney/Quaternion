@@ -1,2 +1,2 @@
 # Quaternion
-## A Quaternion class and test program.
+A Quaternion class and test program.
