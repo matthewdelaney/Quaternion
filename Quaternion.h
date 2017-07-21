@@ -1,5 +1,5 @@
 // TITLE: Quaternion implementation and test program
-// AUTHOR: Matthew Burley.
+// AUTHOR: Matthew Delaney.
 // DATE: 14/2/2004
 #pragma once
 
